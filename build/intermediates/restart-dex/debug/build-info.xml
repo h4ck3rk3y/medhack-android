@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="106920572253322"
+    token="-9213726455534168873"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="91" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="15" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/jianfei/Downloads/SpeechSample/build/outputs/apk/SpeechSample-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="106920572253322"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/jianfei/Downloads/SpeechSample/build/outputs/apk/SpeechSample-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

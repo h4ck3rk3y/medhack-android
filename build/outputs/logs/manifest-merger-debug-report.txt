@@ -1,0 +1,72 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:3:11-42
+		INJECTED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:5:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:6:5-80
+MERGED from [com.segway.robot:sdkbase:0.1.24] /Users/jianfei/Downloads/SpeechSample/build/intermediates/exploded-aar/com.segway.robot/sdkbase/0.1.24/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:7:22-64
+service#com.segway.speechdemo.WebServer.WebServerService
+ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:8:5-58
+	android:name
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:8:14-56
+application
+ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:10:5-24:19
+	android:label
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:12:9-36
+	android:theme
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:15:9-56
+activity#com.segway.speechdemo.MainActivity
+ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:16:9-23:20
+	android:screenOrientation
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:17:19-56
+	android:name
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:16:19-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.segway.robot:speech-sdk:0.5.17] /Users/jianfei/Downloads/SpeechSample/build/intermediates/exploded-aar/com.segway.robot/speech-sdk/0.5.17/AndroidManifest.xml:7:5-9:41
+MERGED from [com.segway.robot:sdkbase:0.1.24] /Users/jianfei/Downloads/SpeechSample/build/intermediates/exploded-aar/com.segway.robot/sdkbase/0.1.24/AndroidManifest.xml:7:5-9:41
+MERGED from [com.segway.robot:headsdk:0.5.27] /Users/jianfei/Downloads/SpeechSample/build/intermediates/exploded-aar/com.segway.robot/headsdk/0.5.27/AndroidManifest.xml:7:5-9:41
+MERGED from [com.segway.robot:basesdk:0.5.27] /Users/jianfei/Downloads/SpeechSample/build/intermediates/exploded-aar/com.segway.robot/basesdk/0.5.27/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianfei/Downloads/SpeechSample/src/main/AndroidManifest.xml

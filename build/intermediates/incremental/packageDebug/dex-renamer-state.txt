@@ -1,0 +1,7 @@
+#Sun Feb 12 10:12:54 CST 2017
+base.0=/Users/jianfei/Downloads/SpeechSample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bce428721991bd62ba1b530be75e62e8ba74963c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jianfei/Downloads/SpeechSample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0428769e72f6abc6683c8d7cac3080d112c900cc/classes.dex
+base.1=/Users/jianfei/Downloads/SpeechSample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0428769e72f6abc6683c8d7cac3080d112c900cc
+file.0=/Users/jianfei/Downloads/SpeechSample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bce428721991bd62ba1b530be75e62e8ba74963c/classes.dex

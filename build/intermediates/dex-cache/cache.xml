@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jianfei/Downloads/SpeechSample/build/intermediates/exploded-aar/com.segway.robot/basesdk/0.5.27/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="83d55b9caa57cb40522d90dee2e27deee0ad75f2">
+        <dex dex="/Users/jianfei/Downloads/SpeechSample/build/intermediates/transforms/dex/debug/folders/1000/10/com.segway.robot-basesdk-0.5.27_2f769dccbb9875270d923a9ed3e98c71ee990432/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jianfei/Downloads/SpeechSample/build/intermediates/exploded-aar/com.segway.robot/sdkbase/0.1.24/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09049761d460a582ec4bb6346730e134fd8cf40a">
+        <dex dex="/Users/jianfei/Downloads/SpeechSample/build/intermediates/transforms/dex/debug/folders/1000/10/com.segway.robot-sdkbase-0.1.24_9620afaa32a75aebd57e38036fa66a51c1716308/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jianfei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/jianfei/Downloads/SpeechSample/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_00e4fce0c541dfbeb1acb7594e04489cf5706d3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jianfei/Downloads/SpeechSample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="12855b7e9c136c1636dd7e84c90d6da48ad9a69d">
+        <dex dex="/Users/jianfei/Downloads/SpeechSample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0428769e72f6abc6683c8d7cac3080d112c900cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jianfei/Downloads/SpeechSample/build/intermediates/exploded-aar/com.segway.robot/speech-sdk/0.5.17/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="478154b4358918d6f0e67f74abeb89fd30dad7b0">
+        <dex dex="/Users/jianfei/Downloads/SpeechSample/build/intermediates/transforms/dex/debug/folders/1000/10/com.segway.robot-speech-sdk-0.5.17_32a3e8dc5e6047a32947b4cffb9ad9c16a1486f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jianfei/Downloads/SpeechSample/build/intermediates/exploded-aar/com.segway.robot/headsdk/0.5.27/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4198da74cf4818a57299da421c05ebf37d7771a2">
+        <dex dex="/Users/jianfei/Downloads/SpeechSample/build/intermediates/transforms/dex/debug/folders/1000/10/com.segway.robot-headsdk-0.5.27_df502203df04c6fcd5cbed968c7c0b3de6c28043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jianfei/Downloads/SpeechSample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="62c4a09078d5141064149a6b6119497b2c48ab87">
+        <dex dex="/Users/jianfei/Downloads/SpeechSample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bce428721991bd62ba1b530be75e62e8ba74963c/classes.dex" />
+    </item>
+
+</items>
